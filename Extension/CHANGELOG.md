@@ -3,6 +3,7 @@
 ## Version 1.1.0-insiders4: November 2, 2020
 ### Bug Fixes
 * Various bug fixes for vcFormat. [PR #6408](https://github.com/microsoft/vscode-cpptools/pull/6408)
+* ...
 
 ## Version 1.1.0-insiders3: October 22, 2020
 ### New Features
